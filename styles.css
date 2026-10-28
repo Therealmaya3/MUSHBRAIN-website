@@ -4,14 +4,10 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: #000000;
-
-}
 
 hr.colored-line {
 
     border:none;
     height: 1px;
-    background-color:blue;
+    background-color:darkblue;
 }
